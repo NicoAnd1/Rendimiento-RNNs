@@ -2,6 +2,7 @@
 Proyecto de Inteligencia Computacional, rendimiento de RNNs y su comportamiento a distintos largos de secuencia.
 
 Integrantes: Simón Estrada y Nicolás Fernández
+
 Tutor: Alejandro Luzanto
 
 # Ejecución del código
